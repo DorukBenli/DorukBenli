@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DorukBenli
 - 👀 I’m interested in coding and playing games.
-- 🌱 I’m currently learning C++, Java and React
-- 💞️ I’m looking to collaborate on C++ related projects.
+- 🌱 I’m currently learning C++, Java, HTML, CSS and JavaScript
+- 💞️ I’m looking to collaborate on any type of project
 - 📫 How to reach me dorukbenli@gmail.com or dorukbenli@sabanciuniv.edu
 
 <!---
